@@ -1,0 +1,12 @@
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\Tests.exe
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\Tests.pdb
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\FigureLib.dll
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\FigureLib.pdb
+C:\Users\Александр\source\repos\FigureLib\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.exe
+C:\Users\Александр\source\repos\FigureLib\Tests\obj\Debug\Tests.pdb
